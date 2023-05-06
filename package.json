@@ -65,7 +65,7 @@
     ]
   },
   "dependencies": {
-    "aws-sdk": "^2.466.0",
+    "aws-sdk": "^2.1373.0",
     "lru-cache": "^5.1.1"
   }
 }
